@@ -6,3 +6,6 @@ It aims to replicate the user interface of the popular streaming platform Netfli
 - HTML5
 - CSS3
 - JavaScript
+
+##Demo
+In case NetflixDemo.gif is not available, please download NetflixDemo.mp4 to get a demo.
